@@ -1,3 +1,3 @@
 library my_logger_flutter;
 
-export 'logger.dart';
+export 'src/logger.dart';
