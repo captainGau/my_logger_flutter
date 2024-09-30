@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class TextAreaPopup {
+class PopupReport {
   static void show({
     required BuildContext context,
     required Function(String) onSubmit,
